@@ -931,7 +931,7 @@ with tab_scientist:
          
 
     
-    index = repo.index
+    #index = repo.index
     #author = Actor("An author", "author@example.com")
     #committer = Actor("A committer", "committer@example.com")
     #repo.index.commit("Commited")
