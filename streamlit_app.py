@@ -854,7 +854,7 @@ with tab_exploration:
             st.write(string_data)
 with tab_intro:
    
-    git.checkout("master")
+
     paragraph = lorem.paragraph()
     #st.write(paragraph)
     #lorem_paragraph = lorem.paragraph()s
@@ -887,7 +887,7 @@ with tab_tag_researcher:
     components.html(get_static_badge('objects',4),height=40)
     components.html(get_static_photo('Object of Study',lorem.sentence(), IMAGE_URL_API), height=444)
     components.html(get_static_popover('status', git.status(),'researcher'),height=250)
-    git.checkout("master")
+
 with tab_tag_ai:
     tab_tag_ai.subheader("AI tags") 
     ai_tag = st.text_input('AI researcher-in-the-loop #', 'Modify AI Feedback')
