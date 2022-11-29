@@ -929,8 +929,6 @@ with tab_scientist:
      #    git_command_5 = ["git","branch","-m","master"]
      #    result = repo.git.execute(git_command_5)
          
-
-    
     #index = repo.index
     #author = Actor("An author", "author@example.com")
     #committer = Actor("A committer", "committer@example.com")
