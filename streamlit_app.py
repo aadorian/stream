@@ -917,17 +917,17 @@ with tab_scientist:
     #components.html(get_static_badge('branches',2),height=40)
     components.html(get_static_badge('researchers',3),height=44)
     components.html(STATIC_AVATAR, height=300)
-    if st.button('Reset'):
-         git_command_1 = ["git","checkout",'--orphan','latest_branch']
-         result = repo.git.execute(git_command_1)
-         git_command_2 = ["git","add",'-A']
-         result = repo.git.execute(git_command_2)
-         git_command_3 = ["git","commit","-am","'commit message'"]
-         result = repo.git.execute(git_command_3)
-         git_command_4 = ["git","branch","-D","master"]
-         result = repo.git.execute(git_command_4)
-         git_command_5 = ["git","branch","-m","master"]
-         result = repo.git.execute(git_command_5)
+    #if st.button('Reset'):
+     #    git_command_1 = ["git","checkout",'--orphan','latest_branch']
+     #    result = repo.git.execute(git_command_1)
+     #    git_command_2 = ["git","add",'-A']
+     #    result = repo.git.execute(git_command_2)
+     #    git_command_3 = ["git","commit","-am","'commit message'"]
+     #    result = repo.git.execute(git_command_3)
+     #    git_command_4 = ["git","branch","-D","master"]
+     #    result = repo.git.execute(git_command_4)
+     #    git_command_5 = ["git","branch","-m","master"]
+     #    result = repo.git.execute(git_command_5)
          
 
     
