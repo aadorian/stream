@@ -1,0 +1,59 @@
+
+{
+    "title": {
+        "media": {
+          "url": "https://i.imgur.com/NrQRoYS.png",
+          "caption": "",
+          "credit": ""
+        },
+        "text": {
+          "headline": "ONE: Research Curation Versioning",
+          "text": "researcher-in-the-loop"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://i.imgur.com/H9jRAqx.png",
+          "caption": "Versioning"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"12"
+        },
+        "text": {
+          "headline": "Release Version 1.0.1",
+          "text": "Description Release Version 1.0.1"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.imgur.com/2yiNDrp.png",
+          "caption": "Media Document "
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"10",
+          "day":"13"
+        },
+        "text": {
+          "headline": "Release Version 1.0",
+          "text": "Description Release Version 1.0"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.imgur.com/DXQ6QOg.png",
+          "caption": "Description Release Version 1.0 (<a target=\"_blank\" href='https://www.github.com/innerdoc/'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2022",
+          "month":"2"
+        },
+        "text": {
+          "headline": "Release Version 0.1.0",
+          "text": "<br>"
+        }
+      }
+    ]
+}
