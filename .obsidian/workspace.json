@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bf9898e0a6851f31",
+        "id": "dc7b8f0d8a84f764",
         "type": "tabs",
         "children": [
           {
-            "id": "670cfffe573a1723",
+            "id": "ba80a1df93ae3092",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "canvas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,16 +124,24 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "canvas.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
-  "active": "670cfffe573a1723",
-  "lastOpenFiles": []
+  "active": "ba80a1df93ae3092",
+  "lastOpenFiles": [
+    "graffitiAPI.png",
+    "graffiti.png",
+    "canvas.md",
+    "b.md",
+    "README.md"
+  ]
 }
